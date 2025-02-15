@@ -216,7 +216,7 @@ ul {
 
 .images-section {
   list-style: none;
-  display: flex;
+  display: block;
   gap: 30px;
   justify-content: center;
 }
@@ -311,7 +311,7 @@ main {
 
 .images-list {
   list-style: none;
-  display: flex;
+  display: block;
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
